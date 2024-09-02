@@ -4,7 +4,7 @@ Features Encrypts passwords to ensure data security. Allows users to add new pas
 
 Python 3.x cryptography library (can be installed via pip) nstallation Clone the repository to your local machine:
 
-bash Copy code git clone https://github.com/your-username/password-manager.git Navigate to the project directory:
+bash Copy code git clone (https://github.com/MHFoad/Automated_id_passward_save.git) Navigate to the project directory:
 
 bash Copy code cd password-manager Usage Run the program:
 
