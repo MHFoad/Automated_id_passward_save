@@ -19,3 +19,4 @@ Enter the website address, username, and password when prompted. Retrieve a pass
 Enter the website address for which you want to retrieve the password. The program will decrypt and display the password, if available. Save and load passwords:
 
 Passwords are automatically saved to a file (passwords.json) for future use. Use the save_passwords() and load_passwords() methods to manage password storage. Security The Password Manager uses Fernet encryption to securely store passwords. Encryption keys are generated automatically or can be loaded from a file.
+install the required PIP: pip install -r requirements.txt
